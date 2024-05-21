@@ -4,7 +4,7 @@ Este projeto implementa um design de página de login animado usando HTML, CSS e
 
 ## Prévia
 
-![Prévia do Design de Login Animado](print.png)
+![Prévia do Design de Login Animado](preview.png)
 
 ## Recursos
 
